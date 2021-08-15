@@ -358,6 +358,7 @@ header .logo img {
   position: relative;
   z-index: 1;
   background-image: url(../../images/slider-1-1600x900.jpg);
+  background-position: center center;
   background-size: cover;
   color: #fff;
 }
